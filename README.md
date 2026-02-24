@@ -3,29 +3,7 @@
 
 ---
 
-## 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivamh-018&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivamh-018&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamh-018&layout=compact&theme=dark" />
-</p>
-
----
-
-## 🚀 Tech Stack
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,git,github,js,ts,react,html,css,nodejs,express" />
-
-</p>
-
----
 
 ## 🔗 Social Links  
 <p align="center">
